@@ -1,0 +1,1 @@
+This is ninja-frog's first git project!
